@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Alcyone Systems
+Label: Alcyone Systems
+Suite: stable
+Codename: stable
+Architectures: arm64
+Components: main
+Description: Signed Tester packages from the Alcyone Systems release authority
+Date: Wed, 12 Aug 2026 09:41:09 +0000
+MD5Sum:
+ 05cab2c91371bfd4e527bf457752b459              714 main/binary-arm64/Packages
+ 8556ffacff15aacbd6dabb75a2d16c3b              510 main/binary-arm64/Packages.gz
+SHA256:
+ d09244912e9fbb682f24efdfbef33cb5d1a27171ef0fa92c9e2698d32fb59af6              714 main/binary-arm64/Packages
+ 246fbaf28ca3abf21bf9c419f22bd9e416f49260752331ecb12d9a3232f84fa7              510 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE6ibU+6WZuzN39DP8r/d//tsuNeIFAmp8P7YACgkQr/d//tsu
+NeJ0/g//cIZcJzdYM0pbBP4MiGXZsqdXSANIgzRMNuS9p62BleIei0M7JG1g+Glh
+MX+erlikGvozIdszvfOEL2rQKKGiFAvxYmb7odSKhr0ycPvViwGXz65D3LK4MQq2
+/gX7iNhsBrEPTKiqcnsq7ZcPJkjYlBW+gRDKypdL/HgtwMMV4CDSNlAgrKIhNt0G
+rkvrEWBuOdOq5MoeBeTg7qZpSd31n9wd8eWzQ3HVV1v2hcZlmtsTKUw/rXX6/Y/c
+5fuYeneqb660AyA7Hy7K+YikjxQHjfsjmMDxisd3Ii1mvHSrVpD3mrbJu81ZebiN
+c8KxYcODW/R49iQHqpgXT9XSx5BAz+ZWnPXuJaaMvTliBhetFlrLFSgSHAOMYVn4
+ZW5PjWrHLHdWSyD45zPzDmbEMgNz/4c5GYAA2iQRWKcZ+YS4/8ku9YiXB+JW0fPj
+BPqCpyjacfcVLyfOisgVkDbW74p5RW/gnQtcsinOHePIM5asZ4zc17gsnFINu9rX
+lNveu2WOyQYy/VdRjwzD4hZ8Dw+aH0m98kxCRba1DlA7qLkxZSkwm2MRCxyhVxd3
+vlHieVDrs2aXeqas0KuPxg0wFbyyo1YnciFaRKaTY7ToebFXA8+s7RGqsi04VqaQ
+3UdP55zE+1b4rEUB0vU9jsDW2gWWegkILKULjZYy3e1VGGBiSCg=
+=jP0U
+-----END PGP SIGNATURE-----

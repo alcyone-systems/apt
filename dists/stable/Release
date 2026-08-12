@@ -1,0 +1,14 @@
+Origin: Alcyone Systems
+Label: Alcyone Systems
+Suite: stable
+Codename: stable
+Architectures: arm64
+Components: main
+Description: Signed Tester packages from the Alcyone Systems release authority
+Date: Wed, 12 Aug 2026 09:41:09 +0000
+MD5Sum:
+ 05cab2c91371bfd4e527bf457752b459              714 main/binary-arm64/Packages
+ 8556ffacff15aacbd6dabb75a2d16c3b              510 main/binary-arm64/Packages.gz
+SHA256:
+ d09244912e9fbb682f24efdfbef33cb5d1a27171ef0fa92c9e2698d32fb59af6              714 main/binary-arm64/Packages
+ 246fbaf28ca3abf21bf9c419f22bd9e416f49260752331ecb12d9a3232f84fa7              510 main/binary-arm64/Packages.gz

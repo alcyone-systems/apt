@@ -1,0 +1,18 @@
+Package: alcyone-tester
+Version: 1.0.1-1
+Architecture: arm64
+Maintainer: Alcyone Systems OÜ <support@alcyone-systems.com>
+Depends: ca-certificates
+Recommends: chromium, chromium-driver, adb
+Filename: pool/main/alcyone-tester_1.0.1-1_arm64.deb
+Size: 194813576
+MD5sum: 5aadcc3df4ff3638ccd64ffd72bc98f9
+SHA1: 491f8e4c28f201525d3aed6032ef8d745101fd34
+SHA256: 6f7e9a468abc029b1a5d6d27504fbade6aa0089f790b227c1d2951b2586b0164
+Section: devel
+Priority: optional
+Homepage: https://alcyone-systems.com/product/
+Description: On-prem test automation for web, API, Android and iOS
+ Tester is a source-free native runtime with a readable test DSL, local
+ dashboard, Selenium, Appium, API execution and signed update metadata.
+

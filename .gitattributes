@@ -1,0 +1,3 @@
+dists/** -text
+*.asc -text
+*.gpg -text
