@@ -5,15 +5,15 @@ Codename: stable
 Architectures: arm64 amd64
 Components: main
 Description: Signed Tester packages from the Alcyone Systems release authority
-Date: Thu, 13 Aug 2026 08:42:39 +0000
-Valid-Until: Thu, 27 Aug 2026 08:42:39 +0000
+Date: Thu, 13 Aug 2026 09:18:13 +0000
+Valid-Until: Thu, 27 Aug 2026 09:18:13 +0000
 MD5Sum:
- dfbdabf2a19a4c2fdbef5b8c5725c4cb              737 main/binary-amd64/Packages
- c11c08d027d722f203edebd0afff5324              522 main/binary-amd64/Packages.gz
- 1cad59673f0bee0e7ed7fc4e7bf06e19              737 main/binary-arm64/Packages
- 39af4dca616d5d6a58fdcaf30dafd25a              523 main/binary-arm64/Packages.gz
+ 85d5cadf3acf4b7c8fdde00867326526              737 main/binary-amd64/Packages
+ ff12e2f9d717f4539db2bb236a255f62              524 main/binary-amd64/Packages.gz
+ 99dc143ecde7b7011937958700e71b06              737 main/binary-arm64/Packages
+ 7673f7b1f5a3ecc7bbba3195860b8713              526 main/binary-arm64/Packages.gz
 SHA256:
- edbd055a2bd231ba23c884b0310b69a6651f7c3251f3433347acdfed3004e0b7              737 main/binary-amd64/Packages
- 43b9948364c1e7372612b7c8485fd10e23885a051993cc4433425c2af516d0ce              522 main/binary-amd64/Packages.gz
- 781ea129f9f5674e76cc51177a639acfe4b0269532ccd6971512416205b7de4b              737 main/binary-arm64/Packages
- e211ca3cd8cdbddd64f31d0ea43964302ad7798eee0680e8eab568715e228478              523 main/binary-arm64/Packages.gz
+ e1a8bbb1c98f76b99a990dd6367cc3f88ed06ef59e31d5bd7958921a74078c50              737 main/binary-amd64/Packages
+ c7aa7c935ed11d9b310cdaca3f2f3b8d1f23acf63aa318262ca1e47220610ea9              524 main/binary-amd64/Packages.gz
+ 0dcc1af0fa20b40ec84b676cfcaca42b26a512b5dc52535e3d0a5bc7c7a26944              737 main/binary-arm64/Packages
+ 99fe5c3b5009d0d65c004df7e3a24a3e96cf1c53061b01e11731287c7f372816              526 main/binary-arm64/Packages.gz
