@@ -1,15 +1,15 @@
 Package: alcyone-tester
-Version: 1.0.1-2
+Version: 1.0.1-3
 Architecture: arm64
 Maintainer: Alcyone Systems OÜ <support@alcyone-systems.com>
-Installed-Size: 778032
+Installed-Size: 778140
 Depends: ca-certificates
 Recommends: chromium, chromium-driver, adb
-Filename: pool/main/alcyone-tester_1.0.1-2_arm64.deb
-Size: 196685872
-MD5sum: 24f43d28f67e08077778fd3325d3d08c
-SHA1: 5f179e787c42eef32646ce1eee6c9972004d3f1e
-SHA256: a1a2dd29cc4f595492abb5bd2674262d2e795cf5bfd12bf39c79caffcf2423ce
+Filename: pool/main/alcyone-tester_1.0.1-3_arm64.deb
+Size: 196785412
+MD5sum: 6865d6b7efd1e9250436ed743a07908a
+SHA1: f10d95a1bae42fcf4748c6d4f250d842f6784702
+SHA256: ae1c8d3c0e19f24d7437aa9c8def9eb1e95709035097eee19725568770f68c21
 Section: devel
 Priority: optional
 Homepage: https://alcyone-systems.com/product/

@@ -8,31 +8,31 @@ Codename: stable
 Architectures: arm64 amd64
 Components: main
 Description: Signed Tester packages from the Alcyone Systems release authority
-Date: Thu, 13 Aug 2026 02:55:46 +0000
-Valid-Until: Thu, 27 Aug 2026 02:55:46 +0000
+Date: Thu, 13 Aug 2026 07:30:06 +0000
+Valid-Until: Thu, 27 Aug 2026 07:30:06 +0000
 MD5Sum:
- 0cab60c1556499a6e7b1cb44a588e537              737 main/binary-amd64/Packages
- 8e53604e71e7706d2270623d051cede1              525 main/binary-amd64/Packages.gz
- 899299103a5adb83ce6e8111a68b8541              737 main/binary-arm64/Packages
- 5ded6c12c46fed8ccd16874f35c3b3ff              522 main/binary-arm64/Packages.gz
+ b978918a41b72984eb307fc6e28d4535              737 main/binary-amd64/Packages
+ f2dea05b8699136e85998ca2c1d2dc14              524 main/binary-amd64/Packages.gz
+ 0662de21a9b13ead6ba716c6631856e8              737 main/binary-arm64/Packages
+ 23ebae8ae4880c0fb759fe9a51245fef              522 main/binary-arm64/Packages.gz
 SHA256:
- d1bf118b4f596985a8b48dc7b18957ecacd16f23b518aae9f9539b9b7e8fcef6              737 main/binary-amd64/Packages
- a834e5be751158c78384dcb57cd5ddb82a909bb25892efce1a1f1c84777604d1              525 main/binary-amd64/Packages.gz
- 92b9670d77d9dcd33c4184faecad5597a314fd96811713043f59fabb9b92b6ce              737 main/binary-arm64/Packages
- 48f2693f9d26764d2ad0749fe5accd2e83b43cad8af43ee9d7ac2fba50684dff              522 main/binary-arm64/Packages.gz
+ e2e021defda71295ba57d7aeeff4710dff3d3fccb811b7bb55699de9d11e2259              737 main/binary-amd64/Packages
+ 9d124c735411cea55df7e71e2aa59e6cab1a3c7f24310fccb34773b770aa2cab              524 main/binary-amd64/Packages.gz
+ 9b16717b83a1a04bab53a56183afb0a7bbadfedb826eec08f2a4c9684fdaa2fd              737 main/binary-arm64/Packages
+ d054468264810f3bd4e431dde98ecab372d2e8a0c40d908cf42e74d22251d25d              522 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE6ibU+6WZuzN39DP8r/d//tsuNeIFAmp9MjIACgkQr/d//tsu
-NeJIXw//QcoqeiV9qkLSRnkpqZfd58f55E+JQAmXVVdWCVho6o2xDcXNEub3wqJs
-grVQP25m5sgRp6LFtnB/GheA6kyvUGenRSSkeoT84QNGXslCN+eFW70yhyO9QG5y
-Fv2COjRKglLO3WDBbH0tEY/MwcgvRREl0QgiePNHHS9h+RGnoHS13eTILd3abOV3
-6RYIye6uSpfvOF7+tQPl1/FYL3zycp7ietXDGgZJolX3CwrXlFtTXHLqZ/qVfBYn
-+Ain6+Psq1xenIDfB1400Fgu1fhXwg0QIPnbl0J4lZ9rfZ58D9YJC0/5+ZZt1QJI
-J+jl5mrsLgwLM0Zi2CLA4WTHvuCdsR7gyLifqLiM5Fx8LVNGjGtNN0DED4wjW0CZ
-XN8oFZ0OCNs8HCX/tufX/TQi+W18Xdkp3rdPUCOQg8l1IE59gLsDWvEh+6suwUTd
-d19j5Hj8L0sn1MPPjCKjlGjcxIURtoU44Ghgslpj6gv82HkDBVIZhrXDkkCwTJIs
-K/JljXrAusqjosqJbzmt6g1f+WnkjD8DQ3tQI6SBwyFLFkaeep+f/ihP7AtzqEzo
-wtxhzVapbpXAToKC5bI8SSFo+l65ojfn6KzQcL5D7hevGLwBw63bKES+e+czSgfz
-1H/omOxhLQY0nqKfgexE+R4ByL1l1HwDhJbU2vyOsDwdYDunEJM=
-=MVFe
+iQIzBAEBCgAdFiEE6ibU+6WZuzN39DP8r/d//tsuNeIFAmp9cn4ACgkQr/d//tsu
+NeK22w//Ygk5vZdT8ZfrVn/IlMwzoBiLNGCzDPURRpi78OOjFm7IiPj4IG6ocYRB
+IwRiEusQiBum79q+w3dneWR4zEqwY0dCbYwAIF1YtErSfzrCLEZp1qrWDzehwGmW
+Gwc3zRzXVWnUliCCLJ9PKPa2spRg63boc5+ts3OFTwvUcBKilPdQwnprksQySk6r
+xsiZQoi8VH5cjBsqpfHY10I8UlHBMiJzhyVf/9BDEz0u29IgE4UH7zMBu/WPEMJ4
+sohKx8bBfVPhL9i/F2CoUdOBUt1LC7hPckxJq9EvPVAdLpBfYDSs+aulzTpvpQeg
+UxiFWNhxI02vnABSeOQsFNAOit890D7ZV7Am3EGf4hcaZy55vx68sQS6o3BM6sye
+XE3IVrX1guBqBMc8rV0jcoKIOl0sA2krXLnrD3ircfiFdla+QhM1SMWV3j79UwjY
+5vN01mwMw/d+xTmUzeoD9fU/BF+ZYRCpzPqwHIFrDHJ1+5MTlfq6klaxYW/NWNoZ
+ZNyGEQh91R0fM7I8QFiyvY4bx4T6700QlfZ2InlfdUPP323hNlVDX/X/HIaKGOTn
+A+lDFnObUt0kHP3+lZz6SYHTIYwdLDWlF21LOsZnHWprVF/0gtFEY1AqdYzewuAG
+sOPUHGshwZuZmLIH+Zw35i9BH2MoV1T0EN51kSyUD2ibj3ZRRiQ=
+=WHOq
 -----END PGP SIGNATURE-----
