@@ -1,19 +1,29 @@
-Origin: Alcyone Systems
-Label: Alcyone Systems
-Suite: stable
-Codename: stable
 Architectures: arm64 amd64
+Codename: stable
 Components: main
+Date: Fri, 14 Aug 2026 15:26:20 +0000
+Valid-Until: Fri, 28 Aug 2026 15:26:20 +0000
 Description: Signed Tester packages from the Alcyone Systems release authority
-Date: Thu, 13 Aug 2026 12:39:39 +0000
-Valid-Until: Thu, 27 Aug 2026 12:39:39 +0000
+Label: Alcyone Systems
+Origin: Alcyone Systems
+Suite: stable
 MD5Sum:
- 3dc7f244472a980c8cf4a16da7af2a42              737 main/binary-amd64/Packages
- 4ce977554f15cd3d627bc00d981af783              525 main/binary-amd64/Packages.gz
- f24884029e57c4be5f431240c6e9c281              737 main/binary-arm64/Packages
- 9322daa9d23f97127e287c09e7ab73ba              523 main/binary-arm64/Packages.gz
+ 34a18b0f3127fceb68ce6370ffdcdef6              737 main/binary-amd64/Packages
+ 28e63c0a6de3789fbf591bd379c34e39              525 main/binary-amd64/Packages.gz
+ 2452c0fb078497b3bbef0ea6c54dec50              737 main/binary-arm64/Packages
+ 547a90dabeac2a173d88f5ede8faa02f              521 main/binary-arm64/Packages.gz
+SHA1:
+ e2068e2466ed909b42e2040ef3c8d9207df90d6e              737 main/binary-amd64/Packages
+ d554952e8a92963c282d6b5afa172b62757d71a3              525 main/binary-amd64/Packages.gz
+ a1ba783a042ae7654dd6581505b30ef173ed95e8              737 main/binary-arm64/Packages
+ cb38fb3c15dc3eb2656c6ac74adb5cd879688861              521 main/binary-arm64/Packages.gz
 SHA256:
- b82b0464ffbf7e4470e1f788ba431d7ac5ab446d4f9c760a0f446efe0c614e50              737 main/binary-amd64/Packages
- 39dd7a792981cf05c3d2442c42ac509a20b1ce958b1f39cb792d7e3f491d8c14              525 main/binary-amd64/Packages.gz
- 33c796e0769bf4759b0d92659b012a0884c53f1a7e864566953c7c12faad1661              737 main/binary-arm64/Packages
- 676a0216b9895fb8eaf58b270fd59ff1d18dbdceadb709c9f0bca9a8050b32a6              523 main/binary-arm64/Packages.gz
+ 1585f9ceb21b1f1cf684b6bcbbf765e82ad3c73c49a7b4d41e8b70d059574373              737 main/binary-amd64/Packages
+ cc87ad9c5fb84bd6dfaed34bbd5350f193567ce79d19f76e229cbac229ab8cb2              525 main/binary-amd64/Packages.gz
+ 8ccbe34426c95ee14c2881a3f7c0d04756613cf4def059646e136a014226e573              737 main/binary-arm64/Packages
+ a880ec4c11ae5437cb84cc43031f351d381e0083182bb0fbf387b327886e88e9              521 main/binary-arm64/Packages.gz
+SHA512:
+ 7abd12a295c06e29a8adb01509daad90629e3a60e04af74e95e60af8fbb1372d9971b4a9d6c3c65ee8fab7ccb12c5a5af11f89c0f2dfbeeb480c8b8066727101              737 main/binary-amd64/Packages
+ 609264542756a03c612bd4394c0bc4bbf234223d0aa24b142ca9b510089c330c48a2f514c503c743f04e0b2fc47b63971c6ade8560d49743d1ca8fc364649c7a              525 main/binary-amd64/Packages.gz
+ f0e2cec798c8d9fcba2c272d54d4c027f341d51a893b3de08f5bc870d30e51d9b21db3ad0a9e3c044d00d7c000ec84ebc5bf6b062e15736de30a3d7845c0b4da              737 main/binary-arm64/Packages
+ 824f6552a5eb4892a37c7e86c18366448049d9919ead0d986d90e8e763959ef020ed447b43c44fb50be2d0d04e92ebec8442e633d8e12ce7ab76ddfdebeb10c4              521 main/binary-arm64/Packages.gz
